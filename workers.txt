@@ -1,0 +1,4 @@
+Andrew 20000
+John 15000
+Donald 100000
+Elisha 9000
